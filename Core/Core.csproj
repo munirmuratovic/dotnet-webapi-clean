@@ -1,10 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Infra\Infra.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Application\DTOs\" />
     <Folder Include="Application\Services\" />
     <Folder Include="Domain\Entities\" />
